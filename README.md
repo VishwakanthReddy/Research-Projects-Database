@@ -24,6 +24,9 @@ Projects: AI Research, Cloud Migration, Blockchain Platform
 
 Each project is managed and worked on by one of the employees.
 
+
+
+
 ✅ Usage
 This project is useful for:
 
@@ -35,12 +38,19 @@ Demonstrating many-to-many relationships via junction tables
 
 Practicing foreign key constraints and relational modeling
 
+
+
+
+
 📂 Files Included
 SQL schema creation for all tables
 
 Data insertion statements
 
 ER schema design (conceptual)
+
+
+
 
 📌 Notes
 Project names are unique within a funding agency (assumption made but not enforced in this schema).
@@ -49,9 +59,15 @@ Duration is considered in months for simplicity.
 
 This schema can be further extended to include tasks, milestones, reports, etc.
 
+
+
+
 👨‍💻 Author
 Created by Vishwakanth Reddy
 Learning SQL, Python, and Web Development at NIAT
+
+
+
 
 🔗 License
 This project is open-source and available under the MIT License.
